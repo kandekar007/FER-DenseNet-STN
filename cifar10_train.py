@@ -20,7 +20,7 @@ from model.DenseNet import createSTNDenseNet
 ROWS = 32
 COLS = 32
 CHANNELS = 3
-nb_classes = 10
+nb_classes = 7
 batch_size = 32
 nb_epoch = 100
 img_dim = (ROWS,COLS,CHANNELS)
